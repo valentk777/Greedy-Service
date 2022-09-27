@@ -1,0 +1,55 @@
+#Autosave files
+# *~
+.idea/
+# net*/
+# .fake/
+packages/
+# *.iml
+.vs/
+# *.orig
+# *.lock.json
+# /UpgradeLog.htm
+# AppReadme/
+# *.tmp
+# temp/*
+
+#build
+[Oo]bj/
+[Bb]in/
+# /[Aa]rtifacts
+# /tools
+# /version.properties
+# TestResults/
+# TestResult.xml
+# **/dist/
+# **/.sonarqube/
+# **/GPUCache
+# *.dotCover
+# /UI/build/
+
+# globs
+# Makefile.in
+# *.DS_Store
+# *.sln.cache
+# *.suo
+# *.cache
+# *.pidb
+# *.userprefs
+# *.usertasks
+# config.log
+# config.make
+# config.status
+# aclocal.m4
+# install-sh
+# autom4te.cache/
+# *.user
+# *.tar.gz
+# tarballs/
+# test-results/
+# Thumbs.db
+# Desktop.ini
+# slave_*.log
+
+#vscode
+# debug.log
+# temp
