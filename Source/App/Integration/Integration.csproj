@@ -16,8 +16,8 @@
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="6.0.9" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.23.1" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.34.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
   </ItemGroup>
 
   <ItemGroup>
